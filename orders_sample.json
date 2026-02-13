@@ -1,0 +1,22 @@
+[
+    {
+        "orderId": "ORD88231",
+        "customerName": "ડેમો ગ્રાહક",
+        "customerPhone": "9000010000",
+        "customerAddress": "૧૦૧, આદર્શ સોસાયટી, સુરત",
+        "productTitle": "Premium Sneakers",
+        "price": 3500,
+        "orderDate": "2026-02-05",
+        "status": "તૈયાર (Pending)"
+    },
+    {
+        "orderId": "ORD12345",
+        "customerName": "વિદ્યાર્થી",
+        "customerPhone": "9876543210",
+        "customerAddress": "૨૦૨, સાયન્સ સ્ક્વેર, અમદાવાદ",
+        "productTitle": "Casual Shoes",
+        "price": 2800,
+        "orderDate": "2026-02-05",
+        "status": "સફળ (Success)"
+    }
+]
